@@ -1,4 +1,5 @@
-Hi, I'm a Java Backend Developer 👋
+# Hi, I'm a Java Backend Developer 👋
+
 I'm a Java Backend Developer with 4+ years of commercial experience building and maintaining enterprise applications.
 
 My main focus is backend development with Java, Spring Boot, Hibernate and SQL. I'm particularly interested in distributed systems, event-driven architecture, system design and building reliable, scalable applications.
