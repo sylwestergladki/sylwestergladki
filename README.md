@@ -19,11 +19,12 @@ I'm continuously expanding my knowledge of backend engineering and distributed s
 
 Some of the areas I'm exploring:
 
-Designing event-driven microservices with Apache Kafka.
-Building reliable asynchronous communication using the Transactional Outbox Pattern.
-Applying Hexagonal Architecture and clean code principles.
-Implementing observability with OpenTelemetry and the Prometheus ecosystem.
-Exploring system design and cloud-native application development.
+- Designing event-driven microservices with Apache Kafka.
+- Building reliable asynchronous communication using the Transactional Outbox Pattern.
+- Applying Hexagonal Architecture and clean code principles.
+- Implementing observability with OpenTelemetry and the Prometheus ecosystem.
+- Exploring system design and cloud-native application development.
+
 💼 Background
 I hold an Engineering Degree in Automatic Control and Robotics from Poznan University of Technology.
 
