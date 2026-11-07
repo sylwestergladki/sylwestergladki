@@ -5,14 +5,15 @@ I'm a Java Backend Developer with 4+ years of commercial experience building and
 My main focus is backend development with Java, Spring Boot, Hibernate and SQL. I'm particularly interested in distributed systems, event-driven architecture, system design and building reliable, scalable applications.
 
 🛠️ Tech Stack
-Languages: Java 17, SQL
-Backend: Spring Boot, Spring Data JPA, Hibernate
-Architecture: Modular Monolith, Microservices, Hexagonal Architecture, Event-Driven Architecture
-Messaging: Apache Kafka, Transactional Outbox Pattern
-Databases: PostgreSQL, Microsoft SQL Server, Redis
-Testing: JUnit 5, Mockito, Testcontainers
-DevOps & Observability: Docker, Docker Compose, OpenTelemetry, Micrometer, Prometheus, Grafana, Loki, Tempo
-Tools: Git, Maven, Gradle, Linux
+- Languages: Java 17, SQL
+- Backend: Spring Boot, Spring Data JPA, Hibernate
+- Architecture: Modular Monolith, Microservices, Hexagonal Architecture, Event-Driven Architecture
+- Messaging: Apache Kafka, Transactional Outbox Pattern
+- Databases: PostgreSQL, Microsoft SQL Server, Redis
+- Testing: JUnit 5, Mockito, Testcontainers
+- DevOps & Observability: Docker, Docker Compose, OpenTelemetry, Micrometer, Prometheus, Grafana, Loki, Tempo
+- Tools: Git, Maven, Gradle, Linux
+
 🚀 What I'm Working On
 I'm continuously expanding my knowledge of backend engineering and distributed systems through personal projects.
 
